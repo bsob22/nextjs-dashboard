@@ -2,4 +2,4 @@
 
 This is the webpage created with [Next.js Learn Tutorial](https://nextjs.org/learn).
 
-![Dashboard image](/public/hero-desktop.png)
+![Dashboard hero image](/public/hero-desktop.png)
